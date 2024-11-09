@@ -1,0 +1,21 @@
+>> HTML:
+1.	Why avoid inline styles?
+Answer: Inline styles mix HTML and CSS, making the code harder to maintain. It’s better to use external CSS files for cleaner and more reusable code.
+2.	What is the purpose of <!DOCTYPE html>?
+Answer: It tells the browser to use HTML5, ensuring the page displays correctly without falling back to old rendering methods.
+3.	How does <meta charset="UTF-8"> work?
+Answer: It defines the character encoding for the page, making sure all characters (like symbols and non-English letters) display correctly.
+>> CSS:
+1.	How do media queries work?
+Answer: Media queries apply different styles based on the device's screen size, helping make websites responsive and adaptable to various devices.
+2.	What is a CSS preprocessor?
+Answer: A CSS preprocessor (like SASS) adds extra features like variables and nesting to make CSS easier to manage and scale.
+3.	Difference between @import and <link> in CSS?
+Answer: @import loads a CSS file after the main one, slowing down load times. <link> loads stylesheets faster and in parallel with other resources.
+>> SYSS (System Security):
+1.	What is SYSS used for?
+Answer: SYSS protects systems and data from unauthorized access and cyber threats, ensuring privacy, safety, and compliance.
+2.	How does it work?
+Answer: It uses multiple defenses like authentication, encryption, firewalls, and malware protection to keep systems secure and prevent attacks.
+3.	What is the purpose of a VPN?
+Answer: A VPN creates a secure, private connection to the internet, hiding your data and online activity from third parties.
